@@ -1,2 +1,5 @@
-# new-pac
-自由/科学/翻墙上网；免费ss/ssr账号
+
+
+自由上网方法
+<li> https://github.com/Alvin9999/new-pac/wiki
+
